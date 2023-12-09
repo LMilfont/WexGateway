@@ -3,6 +3,10 @@ Purchases Transaction Gateway for WEX
 
 This application works as a gateway for incoming purchases transactions.
 
+# Screenshots
+
+![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot01.png?raw=false)
+
 # Features
 
 * Accepts incoming purchase transactions from HTTP JSON/REST requests
