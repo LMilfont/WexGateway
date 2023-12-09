@@ -3,10 +3,6 @@ Purchases Transaction Gateway for WEX
 
 This application works as a gateway for incoming purchases transactions.
 
-# Screenshots
-
-![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot01.png?raw=false)
-
 # Features
 
 * Accepts incoming purchase transactions from HTTP JSON/REST requests
@@ -67,7 +63,16 @@ You may use Postman to sen transactions, or any other preferred tool.
 
 Tests were done using JUnit, as can be seen in Screenshot04.
 You may run JUnit teste by opening file "WecControllerTest.java" then choose "Run as JUnit Test".
- 
- 
+  
+# Screenshots
+
+![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot01.png?raw=false)
+
+![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot02.png?raw=false)
+
+![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot03.png?raw=false)
+
+![alt text](https://github.com/LMilfont/WexGateway/blob/main/screenshots/Screenshot04.png?raw=false)
+
 
 
