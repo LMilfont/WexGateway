@@ -66,7 +66,7 @@ You may use Postman to send transactions, or any other preferred tool.
 # Testing
 
 Tests were done using JUnit, as can be seen in Screenshot04.
-You may run JUnit teste by opening file "WecControllerTest.java" then choose "Run as JUnit Test".
+You may run JUnit tests by opening file "WexControllerTest.java" then choose "Run as JUnit Test".
   
 # Screenshots
 
