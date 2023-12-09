@@ -10,6 +10,10 @@ This application works as a gateway for incoming purchases transactions.
 * Allows conversion of individual purchase transaction amount from US-Dollars to foreign currencies
 * Gets foreign currencies exchange rate from official "Fiscal-Data-Treasury" web service
 
+# Usage of REST API
+
+The app listens for purchase transactions on http://localhost:8080/purchase entrypoint.
+
 # Stored Data
 
 * Description

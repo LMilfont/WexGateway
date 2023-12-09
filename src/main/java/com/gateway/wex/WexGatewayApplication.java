@@ -20,7 +20,3 @@ public class WexGatewayApplication
 	
 }
 
-
-// TODO : 
-//        Include all automated tests.
-//        Deploy to github.
