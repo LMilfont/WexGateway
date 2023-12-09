@@ -60,7 +60,7 @@ While executing, the app will wait for http POST requests with purchase transact
 Each time a valid request comes in, a new entry will appear on the app screen table.
 The bottom of the screen will show details of a single purchase operation upon selection on the table.
 
-You may use Postman to sen transactions, or any other preferred tool.
+You may use Postman to send transactions, or any other preferred tool.
 
 
 # Testing
