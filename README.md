@@ -59,6 +59,11 @@ The bottom of the screen will show details of a single purchase operation upon s
 You may use Postman to sen transactions, or any other preferred tool.
 
 
+# Testing
+
+Tests were done using JUnit, as can be seen in Screenshot04.
+You may run JUnit teste by opening file "WecControllerTest.java" then choose "Run as JUnit Test".
+ 
  
 
 
