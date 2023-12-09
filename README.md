@@ -41,6 +41,24 @@ You may run this application by calling the executable JAR file, like this:
    java -jar WexGateway-0.0.1-SNAPSHOT.jar
 
 
+# Installation of Development Environment
 
+* Download “Spring Tools 4 for Eclipse” from https://spring.io/tools
+* Extract file contents with ”java -jar spring-tool-suite-4-4.20.1.RELEASE-e4.29.0-win32.win32.x86_64.self-extracting.jar”
+* Execute SpringToolSuite4.exe
+* Clone this repository with "git clone https://github.com/LMilfont/WexGateway.git"
+* Import Project on Spring Tools 4 with “Import Project”, then “Gradle > Existing Gradle Project”
+* Run WexGatewayApplication.java as a Java Spring Boot Application
+
+# How to use this application
+
+While executing, the app will wait for http POST requests with purchase transactions.
+Each time a valid request comes in, a new entry will appear on the app screen table.
+The bottom of the screen will show details of a single purchase operation upon selection on the table.
+
+You may use Postman to sen transactions, or any other preferred tool.
+
+
+ 
 
 
